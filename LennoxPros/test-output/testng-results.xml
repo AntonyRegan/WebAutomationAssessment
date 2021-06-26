@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="65310" started-at="2021-06-26T19:14:46 IST" finished-at="2021-06-26T19:15:51 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="65310" started-at="2021-06-26T19:14:46 IST" finished-at="2021-06-26T19:15:51 IST">
+      <class name="testcases.Testcase1">
+        <test-method status="PASS" signature="initializeReport()[pri:0, instance:testcases.Testcase1@4a7f959b]" name="initializeReport" is-config="true" duration-ms="1686" started-at="2021-06-26T19:14:44 IST" finished-at="2021-06-26T19:14:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeReport -->
+        <test-method status="PASS" signature="setData()[pri:0, instance:testcases.Testcase1@4a7f959b]" name="setData" is-config="true" duration-ms="0" started-at="2021-06-26T19:14:46 IST" finished-at="2021-06-26T19:14:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="initializeTestModule()[pri:0, instance:testcases.Testcase1@4a7f959b]" name="initializeTestModule" is-config="true" duration-ms="0" started-at="2021-06-26T19:14:46 IST" finished-at="2021-06-26T19:14:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestModule -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.Testcase1@4a7f959b]" name="beforeMethod" is-config="true" duration-ms="12932" started-at="2021-06-26T19:14:46 IST" finished-at="2021-06-26T19:14:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.Testcase1@4a7f959b]" name="testCase" duration-ms="22798" started-at="2021-06-26T19:14:59 IST" data-provider="fetchData" finished-at="2021-06-26T19:15:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PLP_TC_01]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[This will compare the product details from the listing page and details page]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[lenproautomation8@lenqat.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Community17]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Parts and Supplies]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Compressors:Compressors]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Replace your compressor at LennoxPros.com.]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[69H62]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.Testcase1@4a7f959b]" name="afterMethod" is-config="true" duration-ms="983" started-at="2021-06-26T19:15:22 IST" finished-at="2021-06-26T19:15:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.Testcase1@4a7f959b]" name="beforeMethod" is-config="true" duration-ms="10200" started-at="2021-06-26T19:15:23 IST" finished-at="2021-06-26T19:15:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.Testcase1@4a7f959b]" name="testCase" duration-ms="17324" started-at="2021-06-26T19:15:33 IST" data-provider="fetchData" finished-at="2021-06-26T19:15:50 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PLP_TC_02]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[This will compare the product details from the listing page and details page]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[lenproautomation8@lenqat.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Community17]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Parts and Supplies]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Compressors:Compressors]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Replace your compressor at LennoxPros.com.]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[67W84]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.Testcase1@4a7f959b]" name="afterMethod" is-config="true" duration-ms="871" started-at="2021-06-26T19:15:50 IST" finished-at="2021-06-26T19:15:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.Testcase1@4a7f959b]" name="afterSuite" is-config="true" duration-ms="775" started-at="2021-06-26T19:15:51 IST" finished-at="2021-06-26T19:15:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.Testcase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
